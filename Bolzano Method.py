@@ -110,8 +110,3 @@ plt.title("Bolzano Method")
 plt.scatter(x3, y3,color='blue')
 plt.scatter(x3[iterate2-1], y3[iterate2-1], color='red')
 plt.show()
-
-
-
-
-
